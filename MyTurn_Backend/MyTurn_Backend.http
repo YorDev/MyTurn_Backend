@@ -1,0 +1,6 @@
+@MyTurn_Backend_HostAddress = http://localhost:5264
+
+GET {{MyTurn_Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
